@@ -32,11 +32,11 @@ function HeroSection() {
       <Row>
         <Col lg='6' md='6'>
           <div className='hero__content'>
-            <h4 className='text-light' data-aos='fade-left'data-aos-delay="50">Taskmint <span className='h4__nft'>NFT </span> market built over Tezos</h4>
-            <h1>Discover the Most Premium, Unique and <span className='nft__color'>Exclusive NFT Collections</span></h1>
+            <h4 className='text-light' data-aos='fade-left'data-aos-delay="50">Taskmint market built over Tezos</h4>
+            <h1>Discover the Most Premium, Unique and <span className='nft__color'>Exclusive Project Collections</span> for your requirements.</h1>
             <p>
-                Taskmint is one of the world's largest NFT marketplace where you can buy &amp; 
-                trade a lot of top digital Assets.</p>
+                Taskmint is one of the world's largest marketplace where you can buy &amp; 
+                trade a lot of top projects.</p>
 
               <div className="hero__btn d-flex align-items-center gap-4">
               <button className='hero-btn1 d-flex align-items-center gap-2'><Link to='/market'>Explore<i class="ri-rocket-line"></i></Link></button>

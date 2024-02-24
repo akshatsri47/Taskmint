@@ -10,7 +10,7 @@ import 'aos/dist/aos.css'
  const STEP__DATA = [
 {
    title: 'Setup your Wallet',
-   desc: 'set up your Tezos Wallet, connect it to Star NFT by clicking the wallet icon in the top right corner. Ready to buy and sell lets go!!.',
+   desc: 'set up your Tezos Wallet, connect it to Taskmint by clicking the wallet icon in the top right corner. Ready to buy and sell lets go!!.',
    icon: 'ri-wallet-line'
    
 },
@@ -22,13 +22,13 @@ import 'aos/dist/aos.css'
 },
 {
    title: 'Add your NFTs',
-   desc: 'Upload your work, add a title and description, and customize your NFTs with properties, stats, and unlockable content.',
+   desc: 'Upload your work, add a title and description, and customize your projects with properties, stats, and unlockable content.',
    icon: "ri-gallery-upload-line"
    
 },
 {
-   title: 'List them forsale',
-   desc: 'Do you own a bunch of digital assets you want to sell ? feel free to list them we help you sell them quick!',
+   title: 'List them for sale',
+   desc: 'Do you own a bunch of projects you want to sell ? feel free to list them we help you sell them quick!',
    icon: "ri-list-check"
    
 },
@@ -44,7 +44,7 @@ import 'aos/dist/aos.css'
    <Container>
     <Row>
         <Col lg='12' className='mb-4'>
-            <h3 className='step__title'>Create and Sell your NFTs</h3>
+            <h3 className='step__title'>Create and Sell your Projects</h3>
         </Col>
 
         {

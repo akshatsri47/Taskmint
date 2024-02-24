@@ -8,7 +8,7 @@ import startImg from '../../assets/img/star-removebg-preview (3).png'
 const MY__ACCOUNT = [
   {
     display: 'Author Profile',
-    url: '/seller-profile'
+    url: '#'
   },
   {
     display: 'Create Item',
@@ -20,7 +20,7 @@ const MY__ACCOUNT = [
   },
   {
     display: 'Edit Profile',
-    url: '/edit-profile'
+    url: '#'
   },
 ]
 
@@ -76,8 +76,8 @@ function footer() {
         <div className="logo">
         <img src={startImg} alt="star" width='70px' className='my-3' />
                 </div>
-                <p className='lorem__p'>Create, Trade, and Collect Digital Collectibles. All-in-one social NFT 
-                marketplace for creators and collectors.</p>
+                <p className='lorem__p'>Create and Sell your projects and work as a freelancer. All-in-one social 
+                marketplace for creators and consumers.</p>
         </Col>
 
         <Col lg='2' md='3' sm='6' className='mb-4'>
@@ -134,7 +134,7 @@ function footer() {
         </Col>
 
         <Col lg='12' className='text-center mt-4'>
-          <p><em>Copyrights 2022, Developed By Raghuvanshis</em></p>
+          <p><em>Developed By Raghuvanshis</em></p>
         </Col>
       </Row>
     </Container>
