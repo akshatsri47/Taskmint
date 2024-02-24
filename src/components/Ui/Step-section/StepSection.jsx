@@ -10,18 +10,18 @@ import 'aos/dist/aos.css'
  const STEP__DATA = [
 {
    title: 'Setup your Wallet',
-   desc: 'set up your Tezos Wallet, connect it to Taskmint by clicking the wallet icon in the top right corner. Ready to buy and sell lets go!!.',
+   desc: 'set up your Tezos Wallet, connect it to Taskmint by clicking the wallet icon in the top right corner.',
    icon: 'ri-wallet-line'
    
 },
 {
    title: 'Create your Collection',
-   desc: ' Create and set up your collection. Add social links, a description, profile & banner images, and set a secondary sales fee',
+   desc: ' Create and set up your collection. Add social links, a description, profile and set a secondary sales fee',
    icon: "ri-layout-2-line"
    
 },
 {
-   title: 'Add your NFTs',
+   title: 'Add your Projects',
    desc: 'Upload your work, add a title and description, and customize your projects with properties, stats, and unlockable content.',
    icon: "ri-gallery-upload-line"
    
