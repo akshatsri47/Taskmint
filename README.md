@@ -1,6 +1,6 @@
 # Project Name: Tezos Project Marketplace
 
-Welcome to the Tezos NFT Marketplace project! This decentralized application (DApp) serves as a platform for users to create, buy, and sell projects on the Tezos blockchain. Below, you will find essential information about the project, including its features, challenges faced during development, and additional resources.
+Welcome to the Tezos project Marketplace! This decentralized application (DApp) serves as a platform for users to create, buy, and sell projects on the Tezos blockchain. Below, you will find essential information about the project, including its features, challenges faced during development, and additional resources.
 
 ## Features
 - **NFT Creation**: Users can mint their own projects directly on the platform.
